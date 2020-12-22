@@ -11,7 +11,7 @@ A general discussion of GitHub repo security is beyond the scope of this documen
 
 ## Public vs Private repos
 
-By default, repos created in this GitHub org are private.  Only org members who have been granted the necessary permissions can view or modify the contents of aprivate repository.
+By default, repos created in this GitHub org are private.  Only org members who have been granted the necessary permissions can view or modify the contents of a private repository.
 
 Public repos are accessible to anyone on the internet, so only org administrators can make a private repo public.  If you want to make a repo public, please contact your instructor or the School's IT team.
 
