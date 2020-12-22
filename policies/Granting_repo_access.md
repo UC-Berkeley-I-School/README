@@ -6,14 +6,14 @@ As membership in the UC Berkeley School of Information GitHub org grows, a clear
 
 ## Repo access lifecyle
 
-It is appropriate for faculty, staff and students to have access to this GitHub org at various stages in their affiliation with the school, including:
+It is appropriate for faculty, staff and students to have access to this GitHub org at various stages in their affiliation with the School, including:
 
 * accepted, but not yet enrolled in or teaching classes
 * actively teaching or enrolled in classes
 * on leave
 * alumna or emerita
 
-However, an individual's access may change depending on their affiliation with the school.  For example, a student might be:
+However, an individual's access may change depending on their affiliation with the School.  For example, a student might be:
 
 * invited to join the GitHub org after acceptance into a degree program
 * granted read access to repos before a term starts to read course materials
@@ -22,7 +22,7 @@ However, an individual's access may change depending on their affiliation with t
 
 ## Granting repo access via org membership
 
-Wherever possible, individuals will be invited to join the GitHub org as members and access will be granted through membership in one or more teams.  The use of teams is encourgaed in order to:
+Wherever possible, individuals will be invited to join the GitHub org as members and access will be granted through membership in one or more teams.  The use of teams is encouraged in order to:
 
 * identify an individual's affiliation with the School
 * identify their usage of specific repos
