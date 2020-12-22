@@ -14,9 +14,9 @@ These programs will be referred to hereafter by the acronyms MICS, MIDS and MIMS
 
 ## Topics covered
 
-* [Acceptable use policy](Acceptable_use_policy.md)
-* [Repo naming conventions](Repo_naming_conventions.md)
-* [Team naming conventions](Team_naming_conventions.md)
-* [Granting repo access](Granting_repo_access.md)
-* [Repo security](Repo_security.md)
-* [Repo archiving](Repo_archiving.md)
+* [Acceptable use policy](policies/Acceptable_use_policy.md)
+* [Repo naming conventions](policies/Repo_naming_conventions.md)
+* [Team naming conventions](policies/Team_naming_conventions.md)
+* [Granting repo access](policies/Granting_repo_access.md)
+* [Repo security](policies/Repo_security.md)
+* [Repo archiving](policies/Repo_archiving.md)
