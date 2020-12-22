@@ -15,17 +15,17 @@ As the number of members in this GitHub org increases, a clear and universally a
 
 The following rules should be applied from left to right when naming a team:
 
-1. Program name: All repo names should begin with the name of their associated degree program:  MICS, MIDS or MIMS
-2. Course number: All repo names should include the number of their associated course: w241, 241, etc.  Please note that course numbers are sometimes shared across MICS, MIDS and MIMS programs, so course number alone is not unique
-3. Description: A description is required for any repo used for student work.  Descriptions can be any of the following:
-    * your group name: If this repo supports a service hosted on https://groups.ischool.berkeley.edu, please use the group name as the decription
-    * your project name: If this repo supports a project, such as a Capstone class final project, please use your project name as the description
-4. Term: Term is required for any repo used for student work.  Valid term names include both the session and yearfor the 2020 -2021 academic year are:
+1. Program name: All team names should begin with the name of their associated degree program:  MICS, MIDS or MIMS
+2. Course number: All team names should include the number of their associated course: w241, 241, etc.  Please note that course numbers are sometimes shared across MICS, MIDS and MIMS programs, so course number alone is not unique
+3. Description: A description is required for any team used for student work.  Descriptions can be any of the following:
+    * your group name: If this team supports a service hosted on https://groups.ischool.berkeley.edu, please use the group name as the decription
+    * your project name: If this team supports a project, such as a Capstone class final project, please use your project name as the description
+4. Term: Term is required for any team used for student work.  Valid term names include both the session and yearfor the 2020 -2021 academic year are:
     * Fall20 or Fall2020
     * Winter21 or Winter2021
     * Summer21 or Summer2021
 
-## Example repo names
+## Example team names
 
 The following are all valid examples of team names created by faculty to support instruction:
 
