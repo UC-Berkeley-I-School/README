@@ -37,7 +37,7 @@ The following are all valid examples of repo names created by faculty to support
 The following are valid names for student repos:
 
 * mids-w200-john-doe-spring21
-* mids-w210-MyCapstoneProject-winter2021
+* mids-w210-hella-capstone-project-winter2021
 
 
 ## Policy Enforcement
