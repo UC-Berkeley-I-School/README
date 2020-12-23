@@ -4,7 +4,7 @@
 
 The README repo hosts policies used to manage the [UC Berkeley School of Information](https://www.ischool.berkeley.edu) GitHub org.
 
-The UC Berkeley School of Information GitHub org hosts repos that support our degree programs:
+The UC Berkeley School of Information GitHub org hosts repos that support our degree programs (listed alphabetically):
 
 * [Master of Information and Cybersecurity](https://ischoolonline.berkeley.edu/cybersecurity) (MICS)
 * [Master of Information and Data Science](https://ischoolonline.berkeley.edu/data-science) (MIDS)
