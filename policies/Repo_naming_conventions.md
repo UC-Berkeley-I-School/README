@@ -31,7 +31,7 @@ The following rules should be applied from left to right when naming a repo:
 The following are all valid examples of repo names created by faculty to support instruction:
 
 * mids-1D-computing-basics
-* mids-w200-Course-Syllabus 
+* mids-w200-course-syllabus 
 * mids-w241
 
 The following are valid names for student repos:
