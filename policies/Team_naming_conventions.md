@@ -20,7 +20,7 @@ The following rules should be applied from left to right when naming a team:
 3. Description: A description is required for any team used for student work.  Descriptions can be any of the following:
     * your group name: If this team supports a service hosted on https://groups.ischool.berkeley.edu, please use the group name as the decription
     * your project name: If this team supports a project, such as a Capstone class final project, please use your project name as the description
-4. Term: Term is required for any team used for student work.  Valid term names include both the session and yearfor the 2020 -2021 academic year are:
+4. Term: Term is required for any team used for student work.  Valid term names include both the session and year.  Examples of valid terms for the 2020 -2021 academic year are:
     * Fall20 or Fall2020
     * Winter21 or Winter2021
     * Summer21 or Summer2021
@@ -29,7 +29,7 @@ The following rules should be applied from left to right when naming a team:
 
 The following are all valid examples of team names created by faculty to support instruction:
 
-* mids_w200_Instructors
+* mids_w200_instructors
 * mids_w200_students_spring21
 
 ## Policy Enforcement
