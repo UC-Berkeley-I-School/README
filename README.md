@@ -20,3 +20,4 @@ These programs will be referred to hereafter by the acronyms MICS, MIDS and MIMS
 * [Granting repo access](policies/Granting_repo_access.md)
 * [Repo security](policies/Repo_security.md)
 * [Repo archiving](policies/Repo_archiving.md)
+* [Org owner privileges](policies/Org_owner_privileges.md)
