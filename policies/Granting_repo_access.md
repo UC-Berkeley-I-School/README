@@ -4,7 +4,7 @@
 
 As membership in the UC Berkeley School of Information GitHub org grows, a clear and universally applied convention for granting repo access is required to ensure that the org remains manageable.
 
-## Repo access lifecyle
+## Repo access lifecycle
 
 It is appropriate for faculty, staff and students to have access to this GitHub org at various stages in their affiliation with the School, including:
 
@@ -30,7 +30,7 @@ Wherever possible, individuals will be invited to join the GitHub org as members
 
 ##  Granting repo access via repo collaborators
 
-Granting repo access by inviting people as repo collaborators is discouraged.  Repo collaborators can not be assigned to teams, so there is no data avilable about the collaborator's affiliation with the School, or whether or not their current level of access is correct.
+Granting repo access by inviting people as repo collaborators is discouraged.  Repo collaborators cannot be assigned to teams, so there is no data available about the collaborator's affiliation with the School, or whether or not their current level of access is correct.
 
 ## Automating repo access
 
