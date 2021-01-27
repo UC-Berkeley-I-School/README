@@ -2,7 +2,7 @@
 
 ## Overview
 
-The UC Berkeley School of Information GitHub org hosts a wide variety of repos. Provided they conform to the accaeptable use policy, repos may be:
+The UC Berkeley School of Information GitHub org hosts a wide variety of repos. Provided they conform to the acceptable use policy, repos may be:
 
 * created by faculty, staff or students
 * long-lived or short-lived
@@ -15,13 +15,13 @@ As the number of repos in this GitHub org increases, a clear and universally app
 The following rules should be applied from left to right when naming a repo:
 
 1. Program name: All repo names should begin with the name of their associated degree program:  MICS, MIDS or MIMS
-2. Course number: All repo names should include the number of their associated course: w241, 241, etc.  Please note that course numbers are sometimes shared across MICS, MIDS and MIMS programs, so course number alone is not unique
+2. Course number: All repo names should include the number of their associated course: w241, 241, etc. Please note that course numbers are sometimes shared across MICS, MIDS and MIMS programs, so course number alone is not unique
 3. Description: A description is required for any repo used for student work.  Descriptions can be any of the following:
     * your full name
     * your School of Information user ID
-    * your group name: If this repo supports a service hosted on https://groups.ischool.berkeley.edu, please use the group name as the decription
+    * your group name: If this repo supports a service hosted on https://groups.ischool.berkeley.edu, please use the group name as the description
     * your project name: If this repo supports a project, such as a Capstone class final project, please use your project name as the description
-4. Term: Term is required for any repo used for student work.  Valid term names include both the session and yearfor the 2020 -2021 academic year are:
+4. Term: Term is required for any repo used for student work. Valid term names include both the session and year for the 2020 -2021 academic year are:
     * Fall20 or Fall2020
     * Winter21 or Winter2021
     * Summer21 or Summer2021
