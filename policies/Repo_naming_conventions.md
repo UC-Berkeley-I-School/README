@@ -6,7 +6,7 @@ The UC Berkeley School of Information GitHub org hosts a wide variety of repos. 
 
 * created by faculty, staff or students
 * long-lived or short-lived
-* used for group work or indiidual work
+* used for group work or individual work
 
 As the number of repos in this GitHub org increases, a clear and universally applied naming convention is critical to ensure that the org remains usable.
 
