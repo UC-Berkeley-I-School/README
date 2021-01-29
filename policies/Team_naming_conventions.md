@@ -29,8 +29,8 @@ The following rules should be applied from left to right when naming a team:
 
 The following are all valid examples of team names created by faculty to support instruction:
 
-* mids_w200_instructors
-* mids_w200_students_spring21
+* mids-w200-instructors
+* mids-w200-students-spring21
 
 ## Policy Enforcement
 
